@@ -1,4 +1,4 @@
-# Interview Scheduler
+## Interview Scheduler
     Interview Scheduler is a single page application that allows users to select from 5 different days of the week
     and 5 different times within a single day (if availabe). The app is able to add, remove and edit appointments. 
     Making use of the React with custom hooks and API calls with axios to update and retrieve data in real time. 
@@ -34,10 +34,10 @@ npm test
 npm run storybook
 ```
 
-![Screenshot of booking interviewer]()
-![Screenshot of saved interview]()
-![Screenshot of saving error]()
-![Screenshot of delete confirmation form]()
+![Screenshot of booking interviewer](https://github.com/Njoe00/scheduler/blob/master/docs/Form_page.png?raw=true)
+![Screenshot of saved interview](https://github.com/Njoe00/scheduler/blob/master/docs/Saved_page.png?raw=true)
+![Screenshot of saving error](https://github.com/Njoe00/scheduler/blob/master/docs/Saving_Error_page.png?raw=true)
+![Screenshot of delete confirmation form](https://github.com/Njoe00/scheduler/blob/master/docs/Delete_page.png?raw=true)
 
 
 ## API Server/*Database Setup
@@ -46,12 +46,12 @@ npm run storybook
 3. Inside your root directory run `npm install`
 4. Start the server with `npm start` as well you can see error handling with `npm run error`
 
-## Project Stack
-Front-End: React, Axios, JSX, HTML, SASS, JavaScript
-Back-End: Express, Node.js, PostgreSQL
-Testing: Storybook, WebPack Dev Server, Jest, Testing Library and Cypress
+# Project Stack
+-Front-End: React, Axios, JSX, HTML, SASS, JavaScript
+-Back-End: Express, Node.js, PostgreSQL
+-Testing: Storybook, WebPack Dev Server, Jest, Testing Library and Cypress
 
-## Dependencies 
+# Dependencies 
 -Axios
 -Classnames
 -Normalize.css
