@@ -12,6 +12,11 @@ Jest and cypress are used for integration and end-to-end testing respectively.
 - You can edit the name and interviewer on any existing appointment 
 - You can remove any existing appointment
 
+![Screenshot of booking interviewer](https://github.com/Njoe00/scheduler/blob/master/docs/Form_page.png?raw=true)
+![Screenshot of saved interview](https://github.com/Njoe00/scheduler/blob/master/docs/Saved_page.png?raw=true)
+![Screenshot of saving error](https://github.com/Njoe00/scheduler/blob/master/docs/Saving_Error_page.png?raw=true)
+![Screenshot of delete confirmation form](https://github.com/Njoe00/scheduler/blob/master/docs/Delete_page.png?raw=true)
+
 ## Setup
 
 Install dependencies with `npm install`.
@@ -33,13 +38,6 @@ npm test
 ```sh
 npm run storybook
 ```
-
-![Screenshot of booking interviewer](https://github.com/Njoe00/scheduler/blob/master/docs/Form_page.png?raw=true)
-![Screenshot of saved interview](https://github.com/Njoe00/scheduler/blob/master/docs/Saved_page.png?raw=true)
-![Screenshot of saving error](https://github.com/Njoe00/scheduler/blob/master/docs/Saving_Error_page.png?raw=true)
-![Screenshot of delete confirmation form](https://github.com/Njoe00/scheduler/blob/master/docs/Delete_page.png?raw=true)
-
-
 ## API Server/*Database Setup
 1. Fork and Clone Scheduler-API repo [here](https://github.com/lighthouse-labs/scheduler-api)
 2. Follow the steps provided by README file
